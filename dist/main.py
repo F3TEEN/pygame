@@ -68,5 +68,5 @@ while True:
             exit()
     display.update()
     watch.tick(120)
+
     
-    print('fasgas')
